@@ -1,3 +1,8 @@
+## Author : ARUNKUMAAR R
+## Description : Shell script to install SonarQube
+## Date : 14/02/24
+## Language : Shell Script 
+
 #!/bin/bash
 cp /etc/sysctl.conf /root/sysctl.conf_backup
 cat <<EOT> /etc/sysctl.conf

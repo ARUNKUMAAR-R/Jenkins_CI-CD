@@ -1,3 +1,9 @@
+## Author : ARUNKUMAAR R
+## Description : Shell script to install and run Nexus
+## Date : 14/02/24
+## Language : Shell Script
+
+
 #!/bin/bash
 yum install java-1.8.0-openjdk.x86_64 wget -y   
 mkdir -p /opt/nexus/   
